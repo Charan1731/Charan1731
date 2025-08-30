@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Charandeep Reddy Kankanala, Full Stack & Web3 Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://i.pinimg.com/1200x/eb/04/59/eb0459e1b45e3fc89f99eeef8a43684e.jpg" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 
