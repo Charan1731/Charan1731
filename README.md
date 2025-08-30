@@ -31,10 +31,10 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Full Stack Developer passionate about **Web3, AI & Scalable Systems**
-- :hourglass_flowing_sand: Exploring **Blockchain, Cloud Computing (AWS & GCP), and AI-powered Apps**
+- :hourglass_flowing_sand: Exploring **Blockchain, Zero-Knowledge Proof's, Cloud Computing (AWS & GCP), and AI-powered Apps**
 - :rocket: Building projects like **CreditKarma Agent (DeFi + AI)** and **Flavour Fusion (AI-driven Recipes)**
 - :man_technologist: Final Year CS Student at **CVR College of Engineering**
-- :dart: Goal: **Secure ₹15+ LPA role in FAANG or Web3 AI company**
+- :dart: Goal: **Master cutting-edge technologies and build impactful, future-proof solutions that solve real-world problems and create meaningful change**
 - :zap: Fun fact: I love **hackathons, open-source projects, and tech conferences**
 
 <h2 align="left">:heart: Let's get connected:</h2>
