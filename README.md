@@ -39,7 +39,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Charandeep%20Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charandeep-reddy-kankanala/)](https://www.linkedin.com/in/charandeep-reddy-kankanala/)
-[![GitHub Badge](https://img.shields.io/badge/-Charandeep--Reddy-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/CharanReddyR)](https://github.com/CharanReddyR)
-[![Twitter Badge](https://img.shields.io/badge/-@charan__reddy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://charandeep.tech)](https://charandeep.tech)
+[![Linkedin Badge](https://img.shields.io/badge/-Charandeep%20Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charandeep-reddy-2640a4301/)](https://www.linkedin.com/in/charandeep-reddy-2640a4301/)
+[![GitHub Badge](https://img.shields.io/badge/-Charandeep--Reddy-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/CharanReddyR)](https://github.com/Charan1731)
+[![Twitter Badge](https://img.shields.io/badge/-@charan__reddy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://x.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://charandeep.tech)](https://charan-portfolio-23.vercel.app/)
